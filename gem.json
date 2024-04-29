@@ -3,9 +3,9 @@
     "version": "1.0.0",
     "display_name": "FirstPersonController",
     "license": "MPL 2.0",
-    "license_url": "https://github.com/Porcupine-Factory/FirstPersonController/blob/main/LICENSE.txt",
+    "license_url": "https://github.com/trollware/FirstPersonController/blob/main/LICENSE.txt",
     "origin": "Porcupine Factory",
-    "origin_uri": "https://github.com/Porcupine-Factory/FirstPersonController.git",
+    "origin_uri": "https://github.com/trollware/FirstPersonController.git",
     "last_updated": "2023-11-22",
     "sha256": "",
     "type": "Code",
@@ -22,12 +22,12 @@
     ],
     "icon_path": "preview.png",
     "requirements": "This requires the PhysX and Starting Point Input gems.",
-    "documentation_url": "https://github.com/Porcupine-Factory/FirstPersonController/wiki",
+    "documentation_url": "https://github.com/trollware/FirstPersonController/wiki",
     "dependencies": [
         "PhysX5",
         "StartingPointInput"
     ],
-    "repo_uri": "https://github.com/Porcupine-Factory/FirstPersonController.git",
+    "repo_uri": "https://github.com/trollware/FirstPersonController.git",
     "restricted": "FirstPersonController",
     "platforms": [
         "Linux",
